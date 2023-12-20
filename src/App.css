@@ -1,6 +1,3 @@
-/*
-
-*/
 body{
   background-color:cornflowerblue; 
   color: white;
@@ -101,6 +98,12 @@ h1{
 
 .btn-area{
   margin-bottom: 5px;
+}
+
+.btn-tabs-area {
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
 
 .task-list-item h3{
